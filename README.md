@@ -6,6 +6,7 @@ This project is a TODO APP Project with REACT made by SidneyHod.
 
 In the project directory, you can run:
 
+### `install`
 ### `npm start`
 
 Runs the app in the development mode.\
