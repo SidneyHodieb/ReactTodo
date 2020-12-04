@@ -1,6 +1,7 @@
 # Getting Started with TODO App with REACT
 
-This project is a TODO APP Project with REACT made by SidneyHod.
+This project is a TODO APP Project with REACT using hooks
+made by SidneyHod.
 
 ## HOW TO RUN 
 
