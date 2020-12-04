@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with TODO App with REACT
 
 This project is a TODO APP Project with REACT made by SidneyHod.
 
